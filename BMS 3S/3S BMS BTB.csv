@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"RLY1,RLY1,RLY1";"Relay_JSM1-12V-5";3;"JSM1-12V-5";;;
+2;"R3,R1,R3,R1,R3,R1";"MY_R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";6;"470";;;
+3;"D8,D8,D8";"LED_D3.0mm";3;"GLED";;;
+4;"VR1,VR1,VR1";"MY_TO-92-3_Formed_Leads";3;"TL431CLPM";;;
+5;"Q1,Q1,Q1";"TO-126-3_Vertical";3;"BD140";;;
+6;"RV1,RV1,RV1";"MY_Potentiometer_Bourns_3386F_Vertical";3;"20k";;;
+7;"D4,D3,D4,D3,D6,D5,D7,D6,D7,D5,D3,D7,D4,D6,D5";"D_DO-41_SOD81_P7.62mm_Horizontal";15;"1N4007";;;
+8;"J1,J1,J1";"Term_Block_1x2_P5mm";3;"OSTTC020162";;;
+9;"R2,R2,R2";"MY_R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";3;"1K";;;
+10;"D1,D1,D1";"LED_D3.0mm";3;"RLED";;;

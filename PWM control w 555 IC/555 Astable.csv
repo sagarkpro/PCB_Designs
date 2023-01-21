@@ -1,0 +1,10 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"MY_DIP-8_W7.62mm";1;"NE555P";;;
+2;"C1";"MY_C_Disc_D3.8mm_W2.6mm_P2.50mm";1;"0.01";;;
+3;"J1";"Term_Block_1x3_P5mm";1;"OSTTC030162";;;
+4;"D2,D1";"MY_D_DO-35_SOD27_P7.62mm_Horizontal";2;"1N4148";;;
+5;"C2";"MY_CP_Radial_D4.0mm_P2.00mm";1;"0.001";;;
+6;"R1";"MY_R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"1K";;;
+7;"R2";"MY_R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"10k";;;
+8;"RV1";"MY_Potentiometer_Bourns_3386F_Vertical";1;"10k";;;
+9;"Q1";"TO-220-3";1;"IRF540NPBF";;;

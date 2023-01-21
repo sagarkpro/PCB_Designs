@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"D1,D1,D1,D1";"LED_3mm_Radial";4;"LED";;;
+2;"U1,U1,U1,U1";"DIP-4_W7.62mm";4;"PC817";;;
+3;"J1,J1,J1";"Term_Block_1x2_P5mm";3;"S4";;;
+4;"Q1,Q1,Q1,Q1,Q1";"TO-126-3_Vertical";5;"BD139";;;
+5;"J1,J1,J1,J1";"Term_Block_1x2_P5mm";4;"LOAD";;;
+6;"R2,R2,R2,R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";4;"330";;;
+7;"RLY1,RLY1,RLY1,RLY1";"Relay_JSM1-12V-5";4;"JSM1-12V-5";;;
+8;"J1";"Term_Block_1x2_P5mm";1;"S1";;;
+9;"D2,D2,D2,D2";"D_DO-41_SOD81_P10.16mm_Horizontal";4;"1N4007";;;
+10;"REF**";"MY_ESP-12E 8266";1;"MY_ESP-12E 8266";;;
+11;"J1";"Term_Block_1x2_P5mm";1;"S3";;;
+12;"R1,R1,R1,R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";4;"100";;;
+13;"J1";"Term_Block_1x2_P5mm";1;"S2";;;
